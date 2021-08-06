@@ -26,4 +26,4 @@ if __name__ == "__main__":
     try:
         main()
     except:
-        print('the code has failed, this is likely due to dependencies or command line tools not being installed')
+        print('the code has failed, this is likely due to dependencies or command line tools not being installed, \n Please ensure you have the following installed through HomeBrew \n -ghostscript \n -ffmpeg')
